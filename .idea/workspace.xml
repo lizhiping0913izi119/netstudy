@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7476d73-de42-4aa4-baae-6d43af1dbc95" name="Default Changelist" comment="" />
+    <list default="true" id="b7476d73-de42-4aa4-baae-6d43af1dbc95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/simplefactory/SimpleFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/simplefactory/SimpleFactoryTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,7 +42,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="uml://JAVA/com.gupao.lzp.pattern.factory.abstractfactory.MobileCPU">
           <provider selected="true" editor-type-id="UmlEditorProvider">
             <state>
@@ -186,7 +190,7 @@
                   <point x="33.75" y="26.5" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="323.0" y="229.0" />
+              <settings layout="Hierarchic Group" zoom="1.0" x="47.5" y="189.0" />
               <SelectedNodes>
                 <node>com.gupao.lzp.pattern.factory.abstractfactory.XiaoMiMobileFactory</node>
               </SelectedNodes>
@@ -216,8 +220,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/abstractfactory/AbstractFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+            <state>
+              <caret column="29" selection-start-column="22" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/factorymethod/IMobileFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -226,16 +248,16 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/simplefactory/NokiaMobile.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="275">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/simplefactory/SimpleFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="125">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -244,19 +266,10 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/factorymethod/HuaWeiFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/abstractfactory/ISDKCard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -270,6 +283,9 @@
         <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -289,7 +305,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/simplefactory/XiaoMiMobile.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/simplefactory/NokiaMobile.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/simplefactory/Simplefactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/simplefactory/SimpleFactoryTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/factorymethod/IMobileFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/factorymethod/HuaWeiFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/factorymethod/XiaoMiFactory.java" />
@@ -310,6 +325,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/abstractfactory/HuaWeiMobileFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/abstractfactory/AbstractMobileFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/abstractfactory/XiaoMiMobileFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/simplefactory/SimpleFactoryTest.java" />
       </list>
     </option>
   </component>
@@ -348,6 +364,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -387,15 +404,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="netstudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="netstudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="netstudy" type="b2602c69:ProjectViewProjectNode" />
@@ -535,13 +543,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gupao/lzp/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -851,13 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/factorymethod/IMobileFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/simplefactory/HuaWeiMobile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -970,24 +964,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/abstractfactory/AbstractFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/simplefactory/NokiaMobile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/simplefactory/SimpleFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -1066,7 +1046,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/factorymethod/HuaWeiFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1231,7 +1211,7 @@
               <point x="33.75" y="26.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="323.0" y="229.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="47.5" y="189.0" />
           <SelectedNodes>
             <node>com.gupao.lzp.pattern.factory.abstractfactory.XiaoMiMobileFactory</node>
           </SelectedNodes>
@@ -1241,6 +1221,34 @@
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/abstractfactory/AbstractFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/factorymethod/IMobileFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gupao/lzp/pattern/factory/simplefactory/SimpleFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
         </state>
       </provider>
     </entry>
